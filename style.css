@@ -86,6 +86,9 @@ form {
     font-size: smaller;
 }
 
+body > main > h2 {
+    text-align: justify;
+}
 
 body > footer {
     background-color: green;
