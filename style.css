@@ -90,6 +90,8 @@ form {
 body > footer {
     background-color: green;
     display: flex;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    color: white;
 }
 
 img {
@@ -108,7 +110,7 @@ img {
 }
 
 #footer-ul > div > li > a{
-    color: white;
+    color: black;
     text-decoration: none;
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
 }
