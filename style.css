@@ -59,9 +59,8 @@ body > header > nav > ul {
 }
 
 #headline {
-    border: 3px solid white ;
+    border: 3px solid green ;
     padding: 5px;
-    border-color: green;
 }
 
 body > main article {
