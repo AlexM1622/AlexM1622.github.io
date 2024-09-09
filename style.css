@@ -71,6 +71,11 @@ body > main article {
     width: 70%;
 }
 
+#main-content > h1 {
+    text-align: center;
+    margin: auto;
+}
+
 form {
     text-align: center;
 }
