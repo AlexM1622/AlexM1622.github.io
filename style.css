@@ -81,6 +81,10 @@ form {
     text-align: left;
 }
 
+#main-content > cite {
+    font-size: smaller;
+}
+
 body > footer {
     background-color: green;
     display: flex;
