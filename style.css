@@ -99,6 +99,7 @@ img {
 #footer-ul {
     display: flex;
     list-style: none;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
 }
 
 #footer-ul > div > li{
