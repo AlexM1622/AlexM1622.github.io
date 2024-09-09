@@ -77,8 +77,8 @@ form {
     text-align: center;
 }
 
-#main-content > h1 {
-    text-align: center;
+#main-content > h2 {
+    text-align: left;
 }
 
 body > footer {
