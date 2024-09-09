@@ -58,6 +58,11 @@ body > header > nav > ul {
     border-radius: 5%;
 }
 
+#headline {
+    border: 3px solid white ;
+    padding: 10px;
+}
+
 body > main article {
     width: 80%;
     margin: auto;
@@ -84,6 +89,7 @@ form {
 #main-content > cite {
     font-size: smaller;
 }
+
 
 body > footer {
     background-color: green;
