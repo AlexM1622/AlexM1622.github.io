@@ -55,7 +55,7 @@ body > header > nav > ul {
     text-decoration: none;
     padding: 12px;
     border: 2px solid white;
-    border-radius: 10%;
+    border-radius: 5%;
 }
 
 body > main article {
@@ -82,7 +82,7 @@ form {
 }
 
 body > footer {
-    background-color: orange;
+    background-color: green;
     display: flex;
 }
 
