@@ -58,10 +58,6 @@ body > header > nav > ul {
     border-radius: 5%;
 }
 
-#headline {
-    border: 3px solid green ;
-    padding: 5px;
-}
 
 body > main article {
     width: 80%;
