@@ -60,7 +60,8 @@ body > header > nav > ul {
 
 #headline {
     border: 3px solid white ;
-    padding: 10px;
+    padding: 5px;
+    border-color: green;
 }
 
 body > main article {
